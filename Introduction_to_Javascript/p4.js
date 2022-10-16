@@ -1,0 +1,27 @@
+var name ="Varnit Rajput";
+  var school="K. B. High School"; 
+var grade="A";
+var section="x";
+var rollno=220;
+var marks;
+var total_marks=240;
+var math=80;
+var science=75;
+var history=85;
+console.log("=======================GRADE CARD==========================");
+console.log("  ");
+console.log("name - "+"     "  +name, ";" +"  school -"+"   " +school);
+console.log();
+console.log("Grade -"+"     " +grade, "      ;       " +" Section -"+"  " +section  );
+console.log();
+console.log("Roll Number  -  "+rollno);
+console.log();
+console.log("Subject Name              "+ "marks");
+console.log();
+console.log("Math                      "+math);
+console.log("Science                   "+science);
+console.log("History                   "+history);
+console.log();
+console.log("Total Marks               "+total_marks);
+console.log("===========================================================");
+
